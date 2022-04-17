@@ -1,0 +1,104 @@
+.b1{
+    text-align: center;
+    background-color:rosybrown;
+  }
+  .b2{
+    text-align: center;
+    background-color:rosybrown;
+  }
+  #second{
+    display:none;
+  }
+  .container{
+    text-align: center;
+    color:red;
+    
+  }
+   #id{
+       text-align: center;
+       align-self: center;
+   }  
+  body{
+      
+      background-image:url("https://wallpapercave.com/wp/wp2661660.jpg");
+  }
+  canvas{
+      text-align: center;
+      background-color: black;
+  }
+  .buttons{
+      text-align: center;
+      background-size:  1220px 1000px;
+     color: darkgreen;
+  }
+  
+  punch{
+      color: darkmagenta;
+  }
+  .main{
+      background-color:#20B2AA;
+     padding:15%;}
+     h3{
+     color:white;
+     }
+     .profession{
+     color:white;
+     }
+     .bar{
+     
+     background-color:black;
+     background-size:cover;
+     text-align:right;
+     
+     }
+     .About{
+       padding:15%;
+      }
+     h4{
+     text-decoration:underline ;}
+     .About{background-color:#20B2AA;
+     color:white;}
+     .title{color:red;
+     text-decoration:underline ;}
+     
+     
+     .pitcures{
+         background-color: white;
+       td{
+         padding-left:200%;
+         padding-right:200%;
+         }
+      }
+      .column{
+        padding-left:200%;}
+        background-color:white;
+      }
+      .column-1{
+        padding-left:200%;
+      }
+     
+     
+     .Contact{
+     border-style:dotted ;
+     padding-bottom:10%;
+     padding-left:10%;
+     border-color:white;
+     background-color: white;
+     }
+     .conclusion{
+     background-color:#000080;
+     color:white;
+     }
+     .table{
+       background-color:#000080;
+       color:white;
+     }
+     td{
+       padding-left:10%;
+     }
+     @media only screen and (max-width:768px)
+     /For mobile phones/
+     [class*="col-"]{
+     width:100%;
+         }
+     }
